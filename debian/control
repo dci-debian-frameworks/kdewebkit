@@ -23,7 +23,7 @@ Homepage: https://projects.kde.org/projects/frameworks/kdewebkit
 Package: libkf5webkit-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5webkit4 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5webkit5 (= ${binary:Version}), ${misc:Depends}
 Description: development files for kdewebkit
  The kdewebkit library sits on top of QtWebKit,
  providing KDE integration for icons, shortcuts,
@@ -32,7 +32,7 @@ Description: development files for kdewebkit
  .
  Contains development files for kdewebkit.
  
-Package: libkf5webkit4
+Package: libkf5webkit5
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
@@ -43,12 +43,12 @@ Description: KDE Integration for QtWebKit.
  network operation (KIO), cookie management using
  (KCookieJar) and component embedding (KParts).  
 
-Package: libkf5webkit4-dbg
+Package: libkf5webkit5-dbg
 Priority: extra
 Section: debug
 Architecture: any
 Multi-Arch: same
-Depends: libkf5webkit4 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5webkit5 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for kdewebkit
  The kdewebkit library sits on top of QtWebKit,
  providing KDE integration for icons, shortcuts,
