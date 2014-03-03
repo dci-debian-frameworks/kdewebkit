@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64 i386
-libKF5WebKit.so.4 libkf5webkit4 #MINVER#
+libKF5WebKit.so.5 libkf5webkit5 #MINVER#
  _ZN10KWebWallet11fillWebFormERK4QUrlRK5QListINS_7WebFormEE@Base 4.96.0
  _ZN10KWebWallet11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN10KWebWallet11qt_metacastEPKc@Base 4.96.0
