@@ -39,6 +39,19 @@ Build-Depends: cmake,
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kdewebkit
 
+Package: libkf5webkit-dev
+Section: libdevel
+Architecture: any
+Depends: libkf5webkit5 (= ${binary:Version}), ${misc:Depends},
+ libqt5webkit5-dev
+Description: development files for kdewebkit
+ The kdewebkit library sits on top of QtWebKit,
+ providing KDE integration for icons, shortcuts,
+ network operation (KIO), cookie management using
+ (KCookieJar) and component embedding (KParts).
+ .
+ Contains development files for kdewebkit.
+
 Package: libkf5webkit5
 Section: libdevel
 Architecture: any
