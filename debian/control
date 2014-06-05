@@ -52,7 +52,6 @@ Description: development files for kdewebkit
  Contains development files for kdewebkit.
 
 Package: libkf5webkit5
-Section: libdevel
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: KDE Integration for QtWebKit.
