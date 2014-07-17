@@ -1,6 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kdewebkit
 Source: https://projects.kde.org/projects/frameworks/kdewebkit
+
 Files: *
        debian/*
 Copyright: © 2009-2010 Dawit Alemayehu <adawit@kde.org>
