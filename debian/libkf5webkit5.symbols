@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.96.0 amd64 i386
+# SymbolsHelper-Confirmed: 5.1.0 amd64
 libKF5WebKit.so.5 libkf5webkit5 #MINVER#
  _ZN10KWebWallet11fillWebFormERK4QUrlRK5QListINS_7WebFormEE@Base 4.96.0
  _ZN10KWebWallet11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
@@ -26,8 +26,6 @@ libKF5WebKit.so.5 libkf5webkit5 #MINVER#
  _ZN10KWebWallet24fillFormRequestCompletedEb@Base 4.96.0
  _ZN10KWebWallet25acceptSaveFormDataRequestERK7QString@Base 4.96.0
  _ZN10KWebWallet25rejectSaveFormDataRequestERK7QString@Base 4.96.0
- _ZN10KWebWallet7WebFormC1ERKS0_@Base 4.96.0
- _ZN10KWebWallet7WebFormC2ERKS0_@Base 4.96.0
  (subst)_ZN10KWebWalletC1EP7QObject{quintptr}@Base 4.96.0
  (subst)_ZN10KWebWalletC2EP7QObject{quintptr}@Base 4.96.0
  _ZN10KWebWalletD0Ev@Base 4.96.0
