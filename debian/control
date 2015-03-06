@@ -25,7 +25,9 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kdewebkit.git
 Package: libkf5webkit-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5webkit5 (= ${binary:Version}), libqt5webkit5-dev, ${misc:Depends}
+Depends: libkf5webkit5 (= ${binary:Version}),
+         libqt5webkit5-dev,
+         ${misc:Depends}
 Description: development files for kdewebkit
  The kdewebkit library sits on top of QtWebKit,
  providing KDE integration for icons, shortcuts,
