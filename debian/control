@@ -44,17 +44,3 @@ Description: KDE Integration for QtWebKit.
  network operation (KIO), cookie management using
  (KCookieJar) and component embedding (KParts).
 Multi-Arch: same
-
-Package: libkf5webkit5-dbg
-Priority: extra
-Section: debug
-Architecture: any
-Multi-Arch: same
-Depends: libkf5webkit5 (= ${binary:Version}), ${misc:Depends}
-Description: debug symbols for kdewebkit
- The kdewebkit library sits on top of QtWebKit,
- providing KDE integration for icons, shortcuts,
- network operation (KIO), cookie management using
- (KCookieJar) and component embedding (KParts).
- .
- Contains debug symbols for kdewebkit.
