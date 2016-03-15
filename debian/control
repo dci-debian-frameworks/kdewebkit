@@ -19,7 +19,7 @@ Build-Depends: cmake (>= 2.8.12),
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kdewebkit
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/frameworks/kdewebkit.git
-Vcs-Git: https://anonscm.debian.org/pkg-kde/frameworks/kdewebkit.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/frameworks/kdewebkit.git
 
 Package: libkf5webkit-dev
 Section: libdevel
