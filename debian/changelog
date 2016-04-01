@@ -1,3 +1,11 @@
+kdewebkit (5.20.0-1~1.gbp243172) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @243172b243621d6dbe1dfc7c31dd58619f3e3eaa **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 30 Mar 2016 11:03:37 +0200
+
 kdewebkit (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
