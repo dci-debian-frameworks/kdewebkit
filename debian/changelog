@@ -1,10 +1,16 @@
-kdewebkit (5.20.0-1~1.gbp243172) UNRELEASED; urgency=medium
+kdewebkit (5.20.0-1~2.gbp3ac7d8) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @3ac7d89c8a318640db790e48e82ee94f5bdd2bf2 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @243172b243621d6dbe1dfc7c31dd58619f3e3eaa **
 
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 30 Mar 2016 11:03:37 +0200
+  [ Maximiliano Curia ]
+  * Update acc test script
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 01 Apr 2016 17:03:17 +0200
 
 kdewebkit (5.19.0-1) experimental; urgency=medium
 
