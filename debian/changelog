@@ -1,6 +1,6 @@
-kdewebkit (5.20.0-1~3.gbp2ae29a) UNRELEASED; urgency=medium
+kdewebkit (5.21.0-1~1.gbp437a50) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @2ae29a2145dd0ff99a05bb62d4fcc151dfb26327 **
+  ** SNAPSHOT build @437a500866fde9c1a4f8049b8a47ad6eccc12bf9 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @243172b243621d6dbe1dfc7c31dd58619f3e3eaa **
@@ -10,8 +10,15 @@ kdewebkit (5.20.0-1~3.gbp2ae29a) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Update acc test script
   * UNRELEASED
+  * uscan no longer supports more than one main upstream tarball being listed
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:03:29 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files.
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:03:18 +0200
 
 kdewebkit (5.19.0-1) experimental; urgency=medium
 
