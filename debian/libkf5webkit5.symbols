@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 5.1.0 amd64
+# SymbolsHelper-Confirmed: 5.20.0 amd64 armhf i386
 libKF5WebKit.so.5 libkf5webkit5 #MINVER#
  _ZN10KWebWallet11fillWebFormERK4QUrlRK5QListINS_7WebFormEE@Base 4.96.0
  _ZN10KWebWallet11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
@@ -126,6 +126,8 @@ libKF5WebKit.so.5 libkf5webkit5 #MINVER#
  _ZTV17KWebPluginFactory@Base 4.96.0
  _ZTV8KWebPage@Base 4.96.0
  _ZTV8KWebView@Base 4.96.0
+ _ZZZN15KMimeTypeTrader16preferredServiceERK7QStringS2_Ed_NKUlvE_clEvE15qstring_literal@Base 5.20.0
+ (optional=templinst)_ZZZN15KMimeTypeTrader27createPartInstanceFromQueryIN6KParts12ReadOnlyPartEEEPT_RK7QStringP7QWidgetP7QObjectS7_RK5QListI8QVariantEPS5_ENKUlvE_clEvE15qstring_literal@Base 5.20.0
  (c++)"non-virtual thunk to KGraphicsWebView::mousePressEvent(QGraphicsSceneMouseEvent*)@Base" 4.96.0
  (c++)"non-virtual thunk to KGraphicsWebView::mouseReleaseEvent(QGraphicsSceneMouseEvent*)@Base" 4.96.0
  (c++)"non-virtual thunk to KGraphicsWebView::wheelEvent(QGraphicsSceneWheelEvent*)@Base" 4.96.0
