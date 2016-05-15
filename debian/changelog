@@ -1,10 +1,12 @@
-kdewebkit (5.21.0-1~1.gbp437a50) UNRELEASED; urgency=medium
+kdewebkit (5.22.0-1~1.gbp859f8b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @437a500866fde9c1a4f8049b8a47ad6eccc12bf9 **
+  ** SNAPSHOT build @859f8b6306f0085968d7629b53e54b349282fa4e **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @243172b243621d6dbe1dfc7c31dd58619f3e3eaa **
 
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
@@ -18,7 +20,7 @@ kdewebkit (5.21.0-1~1.gbp437a50) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:03:18 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 15 May 2016 14:03:11 +0200
 
 kdewebkit (5.19.0-1) experimental; urgency=medium
 
