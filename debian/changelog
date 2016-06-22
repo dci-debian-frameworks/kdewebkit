@@ -1,10 +1,9 @@
-kdewebkit (5.23.0-1~1.gbp3cc18d) UNRELEASED; urgency=medium
+kdewebkit (5.23.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @3cc18d8ceeaf1dfa21208dc385a9d417862a9e7d **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 12 Jun 2016 20:03:23 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 23:49:20 +0200
 
 kdewebkit (5.22.0-1) unstable; urgency=medium
 
