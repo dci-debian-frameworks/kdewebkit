@@ -1,11 +1,17 @@
-kdewebkit (5.25.0-1~1.gbp6afd29) UNRELEASED; urgency=medium
+kdewebkit (5.25.0-1~2.gbp5d1ba5) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @5d1ba5f52588c52aac3e89b961420e6057e09ccc **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @6afd2948f874ccc08efa8d8875dc9f953b194846 **
 
   * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 14:03:10 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:03:24 +0200
 
 kdewebkit (5.23.0-1) unstable; urgency=medium
 
