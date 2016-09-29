@@ -1,10 +1,12 @@
-kdewebkit (5.26.0-1~1.gbp323b48) UNRELEASED; urgency=medium
+kdewebkit (5.26.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @323b48f7c4648919885bb1fa3b811d1eecb249e6 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 10 Sep 2016 14:03:47 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 12:02:42 +0200
 
 kdewebkit (5.25.0-1) unstable; urgency=medium
 
