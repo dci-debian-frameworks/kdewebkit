@@ -16,7 +16,7 @@ Build-Depends: cmake (>= 3.0~),
                libkf5wallet-dev (>= 5.37.0~),
                libqt5webkit5-dev (>= 5.7.0~),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev (>= 5.7.0~)
+               qtbase5-dev (>= 5.7.0~),
 Standards-Version: 4.0.1
 Homepage: https://projects.kde.org/projects/frameworks/kdewebkit
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/frameworks/kdewebkit.git
@@ -27,7 +27,7 @@ Section: libdevel
 Architecture: any
 Depends: libkf5webkit5 (= ${binary:Version}),
          libqt5webkit5-dev (>= 5.7.0~),
-         ${misc:Depends}
+         ${misc:Depends},
 Description: development files for kdewebkit
  The kdewebkit library sits on top of QtWebKit,
  providing KDE integration for icons, shortcuts,
