@@ -34,7 +34,7 @@ Description: development files for kdewebkit
  (KCookieJar) and component embedding (KParts).
  .
  Contains development files for kdewebkit.
-Breaks: libkf5kdelibs4support-dev (<< 5.41)
+Breaks: libkf5kdelibs4support-dev (<< 5.42)
 
 Package: libkf5webkit5
 Architecture: any
@@ -45,4 +45,4 @@ Description: KDE Integration for QtWebKit.
  network operation (KIO), cookie management using
  (KCookieJar) and component embedding (KParts).
 Multi-Arch: same
-Breaks: kdesignerplugin (<< 5.41)
+Breaks: kdesignerplugin (<< 5.42)
